@@ -3,4 +3,5 @@ questao 02
 questao 03 
 questao 05
 questao 06
-
+questo 07
+questo 08
